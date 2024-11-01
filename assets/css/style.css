@@ -178,17 +178,33 @@ P {font-family: 'SF Pro Display', sans-serif;
     padding-top: 20px;
     padding-bottom: 20px;
 }
-.line-style-box {
-    font-size: 56px;
-    font-weight: bold;
+.Hero-img{
+    font-family:'SF Pro Display', sans-serif;
+    font-size: 112px;
+    font-weight: 700;
+    line-height: 112px;
     display: inline-block;
     background-image: url('/assets/images/svg/bg-icon-3.svg');
     background-repeat: no-repeat;
-    background-position: center; /* This will center the image */
+    background-position: bottom; /* This will center the image */
     background-size: contain; /* Adjusts image to fit inside the element */
+
+
+}
+.line-style-box {
+    font-family:'SF Pro Display', sans-serif;
+    font-size: 56px;
+    font-weight: bold;
+    display: inline-block;
+    background-image: url('/assets/images/svg/bg-icon-4.svg');
+    background-repeat: no-repeat;
+    background-position: bottom; /* This will center the image */
+    background-size: contain; /* Adjusts image to fit inside the element */
+
 
 }
 .line-style{
+    font-family:'SF Pro Display', sans-serif;
     font-size: 56px;
     font-weight: bold;
     display: inline-block;
@@ -198,6 +214,7 @@ P {font-family: 'SF Pro Display', sans-serif;
 
 }
 .highlight {
+    font-family:'SF Pro Display', sans-serif;
     font-size: 56px;
     font-weight: bold;
     display: inline-block;
